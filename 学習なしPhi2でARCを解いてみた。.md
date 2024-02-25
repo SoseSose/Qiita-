@@ -1,13 +1,13 @@
 ---
-title: 学習なしPhi2でARCを解いてみた。
+title: 学習なしPhi-2でARCを解いてみた。
 tags:
   - Python
-  - transformers
   - Phi_2
+  - transformers
   - AbstractReasoningChallenge
 private: false
-updated_at: '2024-02-25T21:02:51+09:00'
-id: f1474a856651b31ee680
+updated_at: ''
+id: null
 organization_url_name: null
 slide: false
 ignorePublish: false
